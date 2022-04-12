@@ -4,7 +4,10 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+//grab error id and hide it 
 
+const error = document.getElementById('modal')
+error.className = 'hidden';
 
 
 //------------------------------------------------------------------------------
